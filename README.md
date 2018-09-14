@@ -14,6 +14,8 @@
 - [ ] 培养任何心中表情都不显示在脸上的能力
 - [ ] 不说脏话
 - [ ] 不说消极的话，别人不爱听的话，尽量不表达和别人不一样的观点
+- [ ] 学习肌肉结构/组成
+- [ ] 学习按摩
 - [ ] learn ballet
 - [ ] climb half dome, not hike to half dome
 - [ ] full marathon
