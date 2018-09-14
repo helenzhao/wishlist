@@ -28,3 +28,4 @@
 - [x] hike half dome (2015 july and 2018 July)
 - [x] hike cloud rest
 - [x] backpacking at crater lake/ yosemite 
+- [x] scuba diving at bali (2017 Sept) [videos here](https://www.youtube.com/channel/UCSUtwkBxFuIVN-oYFBFd2lA/videos?view=0&shelf_id=0&sort=dd)
