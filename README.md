@@ -20,7 +20,6 @@
 - [ ] climb half dome, not hike to half dome
 - [ ] half marathon
 - [ ] pass lead test
-- [ ] scuba diving at new caledonia
 - [ ] backpacking in malaysia
 - [ ] scuba diving in new caledonia
 - [ ] watch animal migration in africa
