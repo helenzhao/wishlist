@@ -18,10 +18,12 @@
 - [ ] 学习按摩
 - [ ] learn ballet
 - [ ] climb half dome, not hike to half dome
-- [ ] full marathon
+- [ ] half marathon
 - [ ] pass lead test
 - [ ] scuba diving at new caledonia
-
+- [ ] backpacking in malaysia
+- [ ] scuba diving in new caledonia
+- [ ] watch animal migration in africa
 
 # Things I already did
 - [x] sky diving (2013 summer)
